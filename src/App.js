@@ -32,7 +32,7 @@ const App = () => {
                     }}
                 >
                     <Form>
-                        <Field name="search" />
+                        <Field name="search" placeholder="buscar" />
                     </Form>
                 </Formik>
             </header>
